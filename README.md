@@ -28,4 +28,4 @@ Paste your legal case text into the "Input Legal Case Text" box.
 
 Optionally, select a "Domain" and "Subdomain" to categorize the text.
 
-Click the appropriate button to generate the summary.
+Click the submit button to generate the summary.
